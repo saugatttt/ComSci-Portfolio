@@ -2,7 +2,7 @@
 
 As a high school senior looking to go into computer science in university without having a lot of prior experience, I had to focus on productivity and completing meaningful work to make the most of my time. Completing meaningful work means working to learn rather than for completion. This portfolio is assembled to display my progress in getting familiar with the world of coding, by showing what I have learned.
 
-## Top 10 modules
+## Top 10 modules 
 
 ### Intro to JS: Drawing & Animation
 This was the first module I worked through on Khan Academy and JavaScript was a completely new coding language for me when I started this module. I was already a little familiar with basic coding, but it was my first time working with a canvas. Learning how to use processing.js and engage in various projects had a positive impact on my overall learning process because it was a forgiving but encouraging work environment on Khan Academy.
@@ -13,11 +13,15 @@ Although web development is one of my less favourite aspects of computer science
 
 ### Advanced JS: Games and Visualizations 
 
+
 ### Advanced JS: Natural Simulations
+Definitely the most challenging module of the
 
 ### Creative Coding Session 
+For the summative, Dylan and I worked on our own Snake Game with the help of Dan Shiffman's work. This was probably the biggest project of the semester, especially if we include our creative refactoring. There were 2 main things I took away from this project. The first was actively learning how to apply object oriented programming in a useful way by doing it. The second was the importance of tackling big projects. It's one thing to learn a concept, but practicing by applying it in a big project is much more productive. 
 
 ### AP:CS - Digital Information, Algorithms
+This module was interesting and meaningful because it includes some of the most funamental concepts yet I knew very little about them. More specifically, learning about digital information was fun because I felt engaged by the topic.
 
 ### AP:CS - Computer Innovations, The Internet
 
@@ -26,6 +30,7 @@ Many of the concepts in this module were things I had already learned in C++. Re
 Programming is something that I will surely try to keep improving on and fortunately, there are many aspects of programming I still need to improve. For example, I would like to get more comfortable with object oriented programming using multiple classes.
 
 ### AP:CS - Data Analysis, Data Security, Simulations
+Data security was one of the units I was looking forward to going through, because I have never been knowledgeable on that topic. I think it had a big impact just because of how important the topic is. I would love to continue learning about encryption, malware, cookies, etc in the future. Data analysis and simulations were slightly less interesting to me, but still worth going through. 
 
 ### 
 
