@@ -5,20 +5,44 @@ As a high school senior looking to go into computer science in university withou
 ## Top 10 modules 
 
 ### Intro to JS: Drawing & Animation
-This was the first module I worked through on Khan Academy and JavaScript was a completely new coding language for me when I started this module. I was already a little familiar with basic coding, but it was my first time working with a canvas. Learning how to use processing.js and engage in various projects had a positive impact on my overall learning process because it was a forgiving but encouraging work environment on Khan Academy.
+This was the first module I worked through on Khan Academy and JavaScript was a completely new coding language for me when I started this module. I was already a little familiar with basic coding, but it was my first time working with a canvas. Learning how to use processing.js and engage in various projects had a positive impact on my overall learning process because it was a forgiving but encouraging work environment on Khan Academy. Much of the coding I did and will do after finishing this module is me building on these more basic skills.
+
+Here is a simple project where I created a bookshelf.
+![image](https://user-images.githubusercontent.com/75393109/114053324-da312880-985c-11eb-8401-8a30f0e595b7.png)
+
 
 ### Intro to HTMLL/CSS: Making Webpages
-This module was also an introduction to a coding language I had never used before. Something specific to have a big impact on me was that I was able to realize and better appreciate just how useful references can be for when the syntax or many tag names are overwhelming.
-Although web development is one of my less favourite aspects of computer science, I do recognize its importance. In the future, I would like to hone my CSS skills and try to feed my creativity more.
+This module was also an introduction to a coding language I had never used before. I was able to realize and better appreciate just how useful references can be for when the syntax or the many tag names are overwhelming. Although web development is one of my less favourite aspects of computer science, I do recognize its importance. I personally consider creativity to be one of my weaknesses. In the future, I would like to hone my CSS skills and try to feed my creativity more, as it is an important tool in web development.
+
+I created this travel webpage using HTML and CSS. Writing about my native country with images from there was extra motivation to do the project; it felt like something I might end up wanting to do for real in the future, to show more people the country's beauty. 
+
+![image](https://user-images.githubusercontent.com/75393109/114054210-a4d90a80-985d-11eb-9cb7-46b39c1fcb87.png)
+![image](https://user-images.githubusercontent.com/75393109/114054254-b15d6300-985d-11eb-8321-f026dc1953ce.png)
 
 ### Advanced JS: Games and Visualizations 
+I sometimes wonder what the game development process is like when I find myself playing video-games. This module gave me a better understanding of this perspective, even though the programs and game created were on the simpler side. Game development is a branch of computer science that I am very interested in, and games are what I like coding the most, so this module was a fun one. Even after this course, I will most likely practice my programming skills by creating more and more complex game projects to build on what I have learned here.
+
+For one of the game projects, I turned the game into something with golf style scoring system where you try to keep a low number of points to win. I increased the number of obstacles a ton so that it is impossible to avoid every single one, but the goal is to avoid as many as possible. This screenshot displays the screen after the player collects too many sticks and has a score too high to be able to win.
+
+![image](https://user-images.githubusercontent.com/75393109/114094704-9fde8000-988a-11eb-88b4-7156793c09e6.png)
+
 
 
 ### Advanced JS: Natural Simulations
-Definitely the most challenging module of the
+This is definitely the most challenging module I did during the quadmester. Here I had to think about many tricky physics concepts already familiar to me but also connect them to the world of programming. I had to spend a lot more time per lesson or per challenge in this module due to the higher level of difficulty. I definitely am not yet fully comfortable with most things I learned in Advanced JS: Natural Simulations, and in fact couldn't finish every project in time. My goal for the near future is to keep practicing using forces, among other vectors, in codes so that I can become comfortable with making use of those concepts.
 
 ### Creative Coding Session 
-For the summative, Dylan and I worked on our own Snake Game with the help of Dan Shiffman's work. This was probably the biggest project of the semester, especially if we include our creative refactoring. There were 2 main things I took away from this project. The first was actively learning how to apply object oriented programming in a useful way by doing it. The second was the importance of tackling big projects. It's one thing to learn a concept, but practicing by applying it in a big project is much more productive. 
+For the summative, Dylan and I worked on our own Snake Game with the help of Dan Shiffman's work, which I found amazing because it masterfully combines educational value and entertainment/engagement value. This was probably the biggest and most educational/productive project of the semester, because we had a lot of time to focus and work on just one program. I personally learned a lot about object oriented programming, as it was my first experience actively applying it on a project in a useful manner. Another thing I learned was the importance of tackling big projects. It's one thing to learn a concept in theory or on paper, but practicing by applying it in a more concrete way is much more productive.  
+
+![image](https://user-images.githubusercontent.com/75393109/114096425-b259b900-988c-11eb-9b8d-ffaf33a7fd73.png)
+
+### Creative Coding Session - refactored
+For the creative refactoring aspect of the snake game, Dylan and I each came up with a bunch of cool ideas, but unfortunately could not do all of them bacause of either a lack of knowledge, time, or simply bugs we could not overcome. Since I have already done a presentation on this, I will not go into details about the project itself. The creative refactoring aspect specifically had a big impact on me because it showed me that anybody can add to a project in a valuable way if they want to when there is so much room for creativity and alternate ideas to flow. It gives me the motivation to continue trying to take already existing games, and create my own versions by putting some kind of spin on it.
+
+I encourage you to try my creative refactoring of the snake game, but be careful, it might mess with your brain!
+
+https://editor.p5js.org/Saugatttt/sketches/-j7hxCOvC 
+
 
 ### AP:CS - Digital Information, Algorithms
 This module was interesting and meaningful because it includes some of the most funamental concepts yet I knew very little about them. More specifically, learning about digital information was fun because I felt engaged by the topic.
@@ -32,13 +56,17 @@ Programming is something that I will surely try to keep improving on and fortuna
 ### AP:CS - Data Analysis, Data Security, Simulations
 Data security was one of the units I was looking forward to going through, because I have never been knowledgeable on that topic. I think it had a big impact just because of how important the topic is. I would love to continue learning about encryption, malware, cookies, etc in the future. Data analysis and simulations were slightly less interesting to me, but still worth going through. 
 
-### 
 
 
-## Interview Section
+# Interview Section
+
+## 1. What makes object oriented design integral to how you think about coding/programming/computer science?
 
 
+## 2. How will you continue learning about computer science?
 
+
+## 3. Summarize your experience with khan academy.
 
 
 
