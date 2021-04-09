@@ -42,7 +42,7 @@ For the creative refactoring aspect of the snake game, Dylan and I each came up 
 
 I encourage you to try my creative refactoring of the snake game, but be careful, it might mess with your brain!
 
-https://editor.p5js.org/Saugatttt/sketches/-j7hxCOvC 
+[link](https://editor.p5js.org/Saugatttt/sketches/-j7hxCOvC)
 
 
 ### AP:CS - Digital Information, Algorithms
