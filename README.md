@@ -70,7 +70,6 @@ Data security was one of the units I was looking forward to going through, becau
 * Clean, structured and organized code
 * Style of programming that can make modelling data and objects easier
 * Foundation to learn about sets, multisets, etc
-
 * New concept for me
 * Began to see benefits of OOP when doing creative coding challenge
 * Only scratched the surface
@@ -82,7 +81,6 @@ Data security was one of the units I was looking forward to going through, becau
 * Factors include philosophy, mindset, appraoch, preferences and goals
 * Unique learning experiences in CS
 * Finding your own path
-
 * Not like courses in school
 * Progress toward fulfilling work
 * Work on increasingly harder projects
@@ -96,7 +94,6 @@ Data security was one of the units I was looking forward to going through, becau
 * The comment section
 * Hints during challenges
 * Messages of encouragement
-
 * First time impressions
 * Features were useful
 * Never intimidating
