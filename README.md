@@ -42,7 +42,7 @@ For the creative refactoring aspect of the snake game, Dylan and I each came up 
 
 I encourage you to try my creative refactoring of the snake game, but be careful, it might mess with your brain!
 
-[link](https://editor.p5js.org/Saugatttt/sketches/-j7hxCOvC)
+<a href="https://www.w3schools.com/">Snake with controls that invert every time you eat food</a>
 
 
 ### AP:CS - Digital Information, Algorithms
@@ -67,25 +67,54 @@ Data security was one of the units I was looking forward to going through, becau
 
 ### 1. What makes object oriented design integral to how you think about coding/programming/computer science?
     
-  Object oriented design is something all programmers need to be familiar and comfortable with. It helps code in a more clean, structured and organized way. Object oriented design isn't the final goal though, it is more of a style that can enhance other things. Approaching programming with this style is important, because once you start thinking about objects, you can start thinking about sets and multisets. You can build on it and also focus on these different types of collections of elements.
+<ul>
+    <li>Clean, structured and organized code
+        <li>Style of programming that can make modelling data and objects easier
+            <li>Foundation to learn about sets, multisets, etc
+                      </ul>
 
-  Object oriented programming was a completely new concept for me this year. Initially, I did not quite understand what was so special about it because the first examples I saw seemed to make a simple code more complex for the same results. However, as I started working through more complicated programs, I began to see the organizational benefits of approaching coding with object oriented design in mind. To be completely honest, I have still not used this style of programming to its real potential and I have barely just scratched the surface of it. It has not changed the way I think about coding completely, but it has given me an interesting perspective. I definitel think it makes a lot of sense for modelling data and object.
-  
+<ul>
+    <li>New concept for me
+        <li>Began to see benefits of OOP when doing creative coding challenge
+            <li>Only scratched the surface
+                <li>I can understand why it is so useful to model certain things
+                       </ul>                       
 
 ### 2. How will you continue learning about computer science?
 
-  There are a few different ways to learn about computer science. It depends on the individual's learning philosophy, mindset, approach, preferences and goals. There are so many factors at play that any given person can have a completely unique learning experience when it comes to computer science. In a general sense, I think that everybody wants to find the balance between doing what is objectively efficient and doing what is fun/engaging to themselves. Each person has to find their own path.
-  
-  Personally, I want to be very careful in the way that I approach computer science. I do not want to learn it the same way courses are usually taught in typical classrooms where you do things for completion and you focus on evaluations rather than the learning itself. I want to learn in a more meaningful way than that. My long-term goal is to eventually progress towards fulfilling work and hopefully leave a positive impact somewhere. To do this though, I have to first nail all the basics. A lot of practice will be required, so I plan on working on increasingly harder projects, preferrably large ones. I will also try to collaborate with friends on these projects, because we all have knowledge to share and to gain from working together, and it's also more fun. Finally, I want to explore further many branches of CS that I am interested in, such as algorithms, machine learning, and data security.
-  
+<ul>
+    <li>Different ways to learn
+        <li>Factors include philosophy, mindset, appraoch, preferences and goals
+            <li>Unique learning experiences in CS
+                <li>Finding your own path
+                      </ul>
 
+<ul>
+    <li>Not like courses in school
+        <li>Progress toward fulfilling work
+            <li>Work on increasingly harder projects
+                <li>Collaborative projects
+                    <li>Explore a variety of branches
+                       </ul>
+                       
 ### 3. Summarize your experience with khan academy.
   
-  Khan Academy is a great platform for learning. It has a lot of useful features designed to create an engaging and supportive learning environment. For example, the comment section under each lesson is usually filled with common related questions, as well as well thought-out answers to those questions. Khan Academy also makes challenges and projects engaging but ensures that you can complete it without being too frustrated, by guiding you along with hints that still make you think. A final example is simple and some might call it redundant, but they often display little messages of encouragement, which subtly supports a lot of students' confidence and mental well-being when learning something new!
-  
-  This was my first time using Khan Academy and I was very impressed by its completeness. The features I previously mentioned were all often very useful to me. Even when I was doing difficult lessons such as the natural simulations unit, Khan Academy always made it less intimidating by explaining step by step or never putting pressure on me. I do not really have any inherent flaws to point out, because i feel that they have done a good job minimizing any possible negatives of a learning platform such as this. Khan Academy is easily one of the best learning platforms I have ever used, and I would recommend it to anybody with no hesitation. 
+  <ul>
+    <li>Great learning platform
+        <li>Engaging and supportive learning environment
+            <li>The comment section
+                <li>Hints during challenges
+                    <li>Messages of encouragement
+                      </ul>
 
-
+<ul>
+    <li>First time impressions
+        <li>Features were useful
+            <li>Never intimidating
+                <li>Lack of flaws
+                    <li>I recommend it!
+                       </ul>
+                       
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/saugatttt/ComSciPortfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
