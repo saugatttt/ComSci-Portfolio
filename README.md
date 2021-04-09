@@ -42,7 +42,7 @@ For the creative refactoring aspect of the snake game, Dylan and I each came up 
 
 I encourage you to try my creative refactoring of the snake game, but be careful, it might mess with your brain!
 
-<a href="https://www.w3schools.com/">Snake with controls that invert every time you eat food</a>
+<a href="https://editor.p5js.org/Saugatttt/sketches/-j7hxCOvC/">Snake with controls that invert every time you eat food</a>
 
 
 ### AP:CS - Digital Information, Algorithms
@@ -100,4 +100,3 @@ Data security was one of the units I was looking forward to going through, becau
 * Lack of flaws
 * I recommend it!
                        
-
