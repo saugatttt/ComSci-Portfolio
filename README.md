@@ -67,19 +67,19 @@ Data security was one of the units I was looking forward to going through, becau
 
 ### 1. What makes object oriented design integral to how you think about coding/programming/computer science?
    
-*Clean, structured and organized code
-*Style of programming that can make modelling data and objects easier
-*Foundation to learn about sets, multisets, etc
+* Clean, structured and organized code
+* Style of programming that can make modelling data and objects easier
+* Foundation to learn about sets, multisets, etc
 
-*New concept for me
-*Began to see benefits of OOP when doing creative coding challenge
-*Only scratched the surface
-*I can understand why it is so useful to model certain things
+* New concept for me
+* Began to see benefits of OOP when doing creative coding challenge
+* Only scratched the surface
+* I can understand why it is so useful to model certain things
                     
 ### 2. How will you continue learning about computer science?
 
-*Different ways to learn
-*Factors include philosophy, mindset, appraoch, preferences and goals
+* Different ways to learn
+* Factors include philosophy, mindset, appraoch, preferences and goals
             <li>Unique learning experiences in CS
                 <li>Finding your own path
 </ul>
