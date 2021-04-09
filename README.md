@@ -71,14 +71,14 @@ Data security was one of the units I was looking forward to going through, becau
     <li>Clean, structured and organized code
         <li>Style of programming that can make modelling data and objects easier
             <li>Foundation to learn about sets, multisets, etc
-                      </ul>
+</ul>
 
 <ul>
     <li>New concept for me
         <li>Began to see benefits of OOP when doing creative coding challenge
             <li>Only scratched the surface
                 <li>I can understand why it is so useful to model certain things
-                       </ul>                       
+</ul>                       
 
 ### 2. How will you continue learning about computer science?
 
@@ -87,7 +87,7 @@ Data security was one of the units I was looking forward to going through, becau
         <li>Factors include philosophy, mindset, appraoch, preferences and goals
             <li>Unique learning experiences in CS
                 <li>Finding your own path
-                      </ul>
+</ul>
 
 <ul>
     <li>Not like courses in school
@@ -95,7 +95,7 @@ Data security was one of the units I was looking forward to going through, becau
             <li>Work on increasingly harder projects
                 <li>Collaborative projects
                     <li>Explore a variety of branches
-                       </ul>
+</ul>
                        
 ### 3. Summarize your experience with khan academy.
   
@@ -105,7 +105,7 @@ Data security was one of the units I was looking forward to going through, becau
             <li>The comment section
                 <li>Hints during challenges
                     <li>Messages of encouragement
-                      </ul>
+</ul>
 
 <ul>
     <li>First time impressions
@@ -113,7 +113,7 @@ Data security was one of the units I was looking forward to going through, becau
             <li>Never intimidating
                 <li>Lack of flaws
                     <li>I recommend it!
-                       </ul>
+</ul>
                        
 ## Welcome to GitHub Pages
 
