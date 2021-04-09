@@ -47,17 +47,33 @@ I encourage you to try my creative refactoring of the snake game, but be careful
 
 ### AP:CS - Digital Information, Algorithms
 
+![image](https://user-images.githubusercontent.com/75393109/114119611-ff538480-98b8-11eb-978e-cc80d4f4f2fb.png)
+
+![image](https://user-images.githubusercontent.com/75393109/114119632-08dcec80-98b9-11eb-8d94-d48ae95a449e.png)
+
+
 This module was interesting and meaningful because it includes some of the most funamental concepts yet I knew very little about them. More specifically, learning about digital information was fun because I felt engaged by the topic. Algorithms have so many cool uses ranging from Rubik's cubes to encryption and I would love to explore algorithms soon, especially their practical uses. 
 
 ### AP:CS - Computer Innovations, The Internet
+
+![image](https://user-images.githubusercontent.com/75393109/114120084-d7185580-98b9-11eb-880b-92d77edbfe34.png)
+
+![image](https://user-images.githubusercontent.com/75393109/114120113-e13a5400-98b9-11eb-8291-c418092dbc26.png)
+
 
 The computer innovations unit was fun more than educational, because it was almost a cool history lesson but about groundbreaking computing innovations such as email. But if we focus on the educatinal aspect, the internet unit had a huge impact because frankly, I did not really know what the Internet was. How is it that so many people use the Internet without knowing what it is or how it works? This still baffles me. I want to learn more about the Internet in detail, so that I reach a deeper level of understanding and then I can relay some of that knowledge to my friends reliably!
 
 ### AP:CS - Programming
 
+![image](https://user-images.githubusercontent.com/75393109/114120129-eac3bc00-98b9-11eb-8b23-ea96f82d33bd.png)
+
+
 Many of the concepts in this module were things I had already learned in C++. Revisiting some of these basic coding concepts using a different language was a healthy experience because it was not difficult but I was still gaining useful knowledge on JavaScript. Programming is something that I will surely try to keep improving on and fortunately, there are many aspects of programming I still need to improve. For example, I would like to get more comfortable with object oriented programming and more specifically using multiple classes.
 
 ### AP:CS - Data Analysis, Data Security, Simulations
+
+![image](https://user-images.githubusercontent.com/75393109/114120212-0dee6b80-98ba-11eb-95ca-eef38c02249b.png)
+
 
 Data security was one of the units I was looking forward to going through, because I have never been knowledgeable on that topic. I think it had a big impact just because of how important the topic is. I would love to continue learning about encryption, malware, cookies, etc in the future. Data analysis and simulations were slightly less interesting to me, but still worth going through. I imagine that my computer science course in university is certainly going over all of these, and so I will not look into these things myself because you can't do everything in your free time after all. 
 
